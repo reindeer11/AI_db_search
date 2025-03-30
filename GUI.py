@@ -146,8 +146,11 @@ class DatabaseQueryGUI(QWidget):
 
 if __name__ == "__main__":
     print("""
-    数据库查询交互界面
-        
+============================================================================================================
+                                   editor: reindeer
+                             ~ AIdatabasequeryGUI : v1.0 ~
+The project is a PyQt5 database query interface that implements chat function and database query function.
+              project_address：https://github.com/reindeer11/demo/tree/master 
     """)
     app = QApplication(sys.argv)
     window = DatabaseQueryGUI()
