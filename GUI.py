@@ -150,7 +150,7 @@ if __name__ == "__main__":
                                    🦌editor: reindeer🦌
                              ~ AIdatabasequeryGUI : v1.0 ~
 The project is a PyQt5 database query interface that implements chat function and database query function.
-              project_address：https://github.com/reindeer11/demo/tree/master 
+              project_address：https://github.com/reindeer11/AI_db_search 
     """)
     app = QApplication(sys.argv)
     window = DatabaseQueryGUI()
