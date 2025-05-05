@@ -1,9 +1,30 @@
-.venv/
-- __pycache__/
-- Lib/
-- Scripts/
-- .gitignore
-- config_AI.py
-- db_config.py
-- GUI.py
-- pyvenv.cfg
+# 🎉 AI数据库小助手 - 用聊天的方式玩转MySQL！ 🎉
+
+还在为构造复杂的SQL语句头秃吗？🤯 让这个AI小助手来拯救你！💖
+
+本工具能够通过自然语言理解你的需求，自动构建MySQL查询语句，并用最友好的聊天形式返回查询结果~ �(●ˇ∀ˇ●)
+
+
+
+✨ 核心亮点 ✨
+
+🧠 AI智能查询 - 内置ollamaAPI调用，让你的数据库会"思考"！
+
+🤖 自动语句构建 - 告别SELECT * FROM 头疼，AI帮你写SQL！(≧∇≦)ﾉ
+
+💬 聊天式交互 - 像和朋友聊天一样查询数据库，so easy~
+
+🚀 快速开始：
+
+# 得先安装依赖库
+
+pip install -r requirements.txt
+
+# 启动魔法！
+
+`python GUI.py`
+🌟 项目正在成长中，更多炫酷功能等你来探索！欢迎大佬们来交流~ (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧
+
+如果觉得有用，不妨给个⭐️ star ⭐️鼓励一下吧！你的支持是我更新的动力~ 💪
+
+[editor: reindeer] 🦌✨a
