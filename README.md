@@ -16,11 +16,7 @@
 
 🚀 快速开始：
 
-# 得先安装依赖库
-
-pip install -r requirements.txt
-
-# 启动魔法！
+# 启动魔法！(需要按照对应所确实的库)
 
 `python GUI.py`
 
