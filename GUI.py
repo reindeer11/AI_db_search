@@ -15,7 +15,7 @@ class DatabaseQueryGUI(QWidget):
 
     def init_ui(self):
         # 设置窗口标题和大小
-        self.setWindowTitle("AI查询数据库界面-reindeer制作version=1.0")
+        self.setWindowTitle("AI查询数据库界面-reindeer制作 version:1.0")
         self.setGeometry(100, 100, 800, 600)
 
         # 主布局：垂直布局
@@ -147,7 +147,7 @@ class DatabaseQueryGUI(QWidget):
 if __name__ == "__main__":
     print("""
 ============================================================================================================
-                                   editor: reindeer
+                                   🦌editor: reindeer🦌
                              ~ AIdatabasequeryGUI : v1.0 ~
 The project is a PyQt5 database query interface that implements chat function and database query function.
               project_address：https://github.com/reindeer11/demo/tree/master 
